@@ -173,7 +173,7 @@ def update_data(conn, df, changes):
 """
 # :shopping_bags: Inventory tracker
 
-**Welcome to Alice's Corner Store's intentory tracker!**
+**Welcome to Company A's inventory tracker!**
 This page reads and writes directly from/to our inventory database.
 """
 
